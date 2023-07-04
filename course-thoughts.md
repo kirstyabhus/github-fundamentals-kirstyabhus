@@ -5,12 +5,16 @@
 - Git vs GitHub
 - How to get files from a local to a remote repository using git on the command line
 
-#### 💡 I also learned:
+#### 💡 I also learnt:
 - Typical Git Workflow
 - Branching 🌳
 - Git best practices (specifically to use branches and make small frequent commits)
+- SOLID Principles
 
-A resource I found helpful: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+#### 💭 What I need a better understanding of:
+- Using the SOLID principles in code
+  
+A resource I found helpful for Git: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 
 <p align="center">
     <img width="350" src="https://media.giphy.com/media/82okbuuqL4cAVdtQei/giphy.gif" alt="Material Bread logo">
